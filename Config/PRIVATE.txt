@@ -1,0 +1,3 @@
+# 切换回 opkg
+# CONFIG_USE_APK is not set
+CONFIG_PACKAGE_opkg=y
