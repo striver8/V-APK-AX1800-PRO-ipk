@@ -116,6 +116,8 @@ CONFIG_PACKAGE_sfdisk=y
 CONFIG_PACKAGE_sgdisk=y
 CONFIG_PACKAGE_smartmontools=y
 CONFIG_PACKAGE_smartmontools-drivedb=y
+# CONFIG_USE_APK is not set
+CONFIG_PACKAGE_opkg=y
 
 #-----------------以下自行增加的插件及组件-----------------#
 # zram-swap内存压缩
